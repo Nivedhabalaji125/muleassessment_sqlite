@@ -1,0 +1,7 @@
+MULE ASSESSMENT BY NIVEDHA
+
+1.SELECT * FROM Movies;
+2.SELECT name from Movies;
+3. SELECT actor from Movies where director=’Mani Ratnam’;
+4. SELECT name from Movies where actress=’Jothika’;
+5. SELECT actress from movies where director!=’Mitchell’;
